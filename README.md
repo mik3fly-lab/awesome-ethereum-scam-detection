@@ -51,6 +51,7 @@ Quick "can I sell this token?" simulations.
 - [Honeypot.is](https://honeypot.is/) - Simulates buy/sell to detect honeypots. ERC-20 + BSC.
 - [Rugscreen](https://rugscreen.com/) - Honeypot + rug indicator. Fast lookup by contract.
 - [QuillCheck](https://check.quillai.network/) - Honeypot + tax + ownership analyzer.
+- [ChainSift](https://chainsift.org/) - Buy/sell simulation against the token's real pool, plus tax, mint/pause rights and liquidity locks. Ethereum, BSC, Base, Arbitrum, Polygon, Robinhood Chain. Free, no account.
 
 ## On-chain Forensics
 
